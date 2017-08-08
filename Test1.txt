@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This is my test file for GIT HUB Version control.
 
 
 rgvtgthtgyhh
 
+=======
+This is my test file for GIT HUB Version control. I am adding a new second version to it.
+>>>>>>> 8e63cf235a08a584e998ab260bbb7d9f7eab8806
